@@ -1,106 +1,53 @@
-# Swiggy-Sales-Performance-Analysis-Excel-Dashboard-Project
-Excel dashboard project analyzing Swiggy sales, orders, ratings, and regional performance using business KPIs and interactive visualizations.xcel dashboard project analyzing Swiggy sales, orders, ratings, and regional performance using business KPIs and interactive visualizations.
+# Swiggy Sales Performance Analysis Dashboard 🍔🚀
 
-📌 Project Overview
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
 
-This project presents an end-to-end sales and performance analysis of Swiggy food delivery data using Microsoft Excel. The objective is to analyze business performance, customer behavior, and regional trends through key KPIs and interactive visualizations.
+## 📖 Project Overview
+This project involves a detailed analysis of **Swiggy's** sales performance using an interactive **Excel Dashboard**. The dashboard tracks key metrics such as total revenue, order volume, and customer ratings across different time periods, locations, and food categories.
 
-An Excel dashboard was designed to help stakeholders quickly understand revenue patterns, order trends, customer ratings, and top-performing regions.
+The goal is to provide a comprehensive view of business performance to help identify high-growth areas, customer preferences (Veg vs. Non-Veg), and sales trends.
 
+## 📸 Dashboard Preview
+![Swiggy Dashboard](Dashboard.png.jpg)
 
-🧠 Business Background
+## 🎯 Problem Statement & Goals
+To analyze Swiggy's transaction data to understand sales patterns, city-wise performance, and menu popularity. The dashboard aims to answer:
+* How is the overall revenue performing month-over-month?
+* Which cities and states contribute the most to sales?
+* What is the customer preference split between Veg and Non-Veg items?
+* Which days of the week generate the highest revenue?
 
-Food delivery platforms like Swiggy operate at a massive scale and rely heavily on data-driven insights to improve operations and customer experience. This project is based on a Business Requirement Document (BRD) that outlines the KPIs and dashboards expected by management.
+## 📊 Key Performance Indicators (KPIs)
+* **Total Sales:** ₹ 53.01M
+* **Total Orders:** 197.43K
+* **Average Order Value (AOV):** ₹ 268.51
+* **Average Rating:** 4.3
+* **Rating Count:** 5.59M
 
-The analysis answers critical business questions such as:
+## 📈 Visualizations & Features
+* **Monthly Sales Trend:** A line chart visualizing revenue fluctuation from January to August.
+* **Sales by Food Type:** A donut chart showing the market share of **Non-Veg (64%)** vs. **Veg (36%)** items.
+* **Geographic Analysis (Sales by State):** A heatmap of India highlighting regions with high order density.
+* **Daily Sales Trend:** A column chart identifying peak revenue days (e.g., Thursday and Saturday).
+* **Top 5 Cities by Sales:** A bar chart ranking top-performing cities: **Bengaluru, Lucknow, Hyderabad, Mumbai, and New Delhi**.
+* **Quarterly Performance:** A summary table breaking down Sales, Ratings, and Orders by Q1, Q2, and Q3.
+* **Interactive Slicers:** Dynamic filters for **Months**, **Food Category**, and **Restaurant Name** to drill down into specific data points.
 
-How are sales trending over time?
+## 🔍 Key Insights
+* **Top Location:** **Bengaluru** leads with the highest sales of ₹ 5.5M.
+* **Dietary Preference:** Non-Veg items generate significantly higher revenue (**₹ 33.8M**) compared to Veg items (**₹ 19.2M**).
+* **Peak Performance:** **Q2** recorded the highest sales figures (₹ 20.0M) compared to Q1 and Q3.
+* **Weekly Trends:** Sales volume peaks towards the end of the week (Thursday through Saturday).
 
-Which cities and states generate the most revenue?
+## 🧰 Tools Used
+* **Microsoft Excel:**
+    * Data Cleaning & Processing
+    * Pivot Tables & Pivot Charts
+    * Slicers & Interactive Dashboard Design
+    * Conditional Formatting
 
-What is the average order value and customer satisfaction level?
-
-How do Veg and Non-Veg food categories perform?
-
-
-🛠️ Tools & Technologies Used
-
-Microsoft Excel
-
-Power Query (Data Cleaning & Transformation)
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers & Filters
-
-Excel Dashboard Design & KPI Reporting
-
-
-📊 Key Performance Indicators (KPIs)
-
-Total Sales – Overall revenue generated
-
-Total Orders – Number of food orders placed
-
-Average Order Value (AOV) – Revenue per order
-
-Average Rating – Overall customer satisfaction
-
-Rating Count – Total number of customer reviews
-
-
-📈 Analysis & Insights
-
-🔹 Time-Based Analysis
-
-Monthly Sales Trend – Identifies revenue growth and seasonal patterns
-
-Weekly Trend Analysis – Highlights consistent and peak-performing weeks
-
-Daily Sales Trend – Shows variations in sales across days of the week
-
-
-🔹 Category Analysis
-
-Sales by Food Type (Veg vs Non-Veg)
-
-Veg food contributes a major share of total revenue, indicating strong customer preference.
-
-
-🔹 Regional Analysis
-
-Sales by State (Map Visualization)
-
-Helps identify high-revenue and low-revenue states.
-
-Top 5 Cities by Sales
-
-Metro cities like Bengaluru contribute the highest revenue.
-
-
-🔹 Quarterly Performance
-
-Quarterly Performance Dashboard
-
-Combines sales, orders, and ratings to evaluate overall business performance by quarter.
-
-
-📚 Key Learnings
-
-Converting business requirements into analytical dashboards
-
-Cleaning and preparing real-world data for reporting
-
-Building interactive Excel dashboards using Pivot Tables and slicers
-
-Understanding how KPIs support business decision-making
-
-Improving data visualization and storytelling skills
-
-
-✅ Conclusion
-
-This project demonstrates how Excel can be effectively used for business intelligence and reporting. The dashboard provides clear insights into Swiggy’s operational performance and customer behavior, helping stakeholders make informed decisions.
+## 📬 Contact
+**Adarsh Pandey**
+GitHub: [AdarshPandey-22](https://github.com/AdarshPandey-22)
 
