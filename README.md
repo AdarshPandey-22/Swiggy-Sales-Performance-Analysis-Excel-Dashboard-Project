@@ -1,7 +1,7 @@
 # Swiggy Sales Performance Analysis Dashboard 🍔🚀
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
+
 
 ## 📖 Project Overview
 This project involves a detailed analysis of **Swiggy's** sales performance using an interactive **Excel Dashboard**. The dashboard tracks key metrics such as total revenue, order volume, and customer ratings across different time periods, locations, and food categories.
@@ -9,7 +9,7 @@ This project involves a detailed analysis of **Swiggy's** sales performance usin
 The goal is to provide a comprehensive view of business performance to help identify high-growth areas, customer preferences (Veg vs. Non-Veg), and sales trends.
 
 ## 📸 Dashboard Preview
-![Swiggy Dashboard](Dashboard.png.jpg)
+![Swiggy Dashboard](https://github.com/AdarshPandey-22/Swiggy-Sales-Performance-Analysis-Excel-Dashboard-Project/blob/main/Dashboard.png.png)
 
 ## 🎯 Problem Statement & Goals
 To analyze Swiggy's transaction data to understand sales patterns, city-wise performance, and menu popularity. The dashboard aims to answer:
